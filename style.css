@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@700&family=Nunito:wght@800;900&family=Oswald:wght@700&display=swap');
+
+body{
+    background-color:rgb(211, 228, 243);
+}
+
+.container{
+
+    background-color:white;
+  margin-top:170px;
+    padding:10px;
+    padding-right:0px;
+display: inline-block;
+border-radius:20px;
+
+  
+}
+
+img{
+    width: 250px;
+    margin-right:12px;
+    border-radius:20px;
+    margin-left: 1px;
+}
+
+h2{
+    font-size: 18px;
+font-family: 'Nunito';
+    font-weight: bolder;
+    margin-right: 8px;
+   color: rgb(0, 29, 54);
+}
+
+p{
+    font-size: 12px;
+   margin-bottom: 20px;
+   font-family: 'Nunito';
+   font-weight: lighter;
+   color:rgb(160, 160, 160)
+
+}
